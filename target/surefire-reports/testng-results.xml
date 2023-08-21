@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-17T16:34:01 IST" name="test3" finished-at="2023-08-17T16:34:47 IST" duration-ms="45517">
+    <groups>
+    </groups>
+    <test started-at="2023-08-17T16:34:01 IST" name="VerifyMolinaSite" finished-at="2023-08-17T16:34:47 IST" duration-ms="45517">
+      <class name="webApplication.Molinatestcase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:webApplication.Molinatestcase@1e6454ec]" started-at="2023-08-17T16:34:01 IST" name="setup" finished-at="2023-08-17T16:34:01 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webApplication.Molinatestcase@1e6454ec]" started-at="2023-08-17T16:34:01 IST" name="setUp" finished-at="2023-08-17T16:34:12 IST" duration-ms="11177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="MolinaTestcase()[pri:0, instance:webApplication.Molinatestcase@1e6454ec]" started-at="2023-08-17T16:34:12 IST" name="MolinaTestcase" finished-at="2023-08-17T16:34:47 IST" duration-ms="34292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MolinaTestcase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:webApplication.Molinatestcase@1e6454ec]" started-at="2023-08-17T16:34:47 IST" name="teardown" finished-at="2023-08-17T16:34:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- webApplication.Molinatestcase -->
+    </test> <!-- VerifyMolinaSite -->
+  </suite> <!-- test3 -->
+</testng-results>

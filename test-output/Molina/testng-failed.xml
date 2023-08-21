@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Molina]" guice-stage="DEVELOPMENT">
+  <test thread-count="2" name="Default test(failed)">
+    <classes>
+      <class name="webApplication.Molinatestcase">
+        <methods>
+          <include name="teardown"/>
+          <include name="setUp"/>
+          <include name="setup"/>
+          <include name="MolinaTestcase"/>
+        </methods>
+      </class> <!-- webApplication.Molinatestcase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Molina] -->
